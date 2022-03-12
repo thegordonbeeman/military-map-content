@@ -1,0 +1,17 @@
+@PointClass base(Targetname, Angles) color(0 255 0) = MRP_Spawnpoint
+[
+	spawnflags(Flags) = [
+        32 : "Infantry" : 1
+        64 : "Recon Vehicles" : 0
+        128 : "Transport Vehicles" : 0
+        256 : "Light Armored Vehicles" : 0
+        512 : "Medium Armored Vehicles" : 0
+        1024 : "Heavy Armored Vehicles" : 0
+        2048 : "Fighter Planes" : 0
+        4096 : "Attack Planes" : 0
+        8192 : "Bombers" : 0
+    ]
+]
+
+@PointClass base(MRP_Spawnpoint) iconsprite("sprites/balkenkreuz.vmt") = mrp_ger_spawn : "German Spawn" []
+@PointClass base(MRP_Spawnpoint) iconsprite("sprites/soviet_star.vmt") = mrp_sov_spawn : "Soviet Spawn" []
