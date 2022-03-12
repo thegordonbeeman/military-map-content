@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "sprites\soviet_star"
+	"$translucent" 1
+	"alpha" 1
+}
+
