@@ -1,0 +1,10 @@
+WorldVertexTransition
+{
+	"$basetexture"  "brush/ground/grass1_c"
+    "$bumpmap"  "brush/ground/grass1_n"
+    "$surfaceprop"  "grass"
+
+    "$basetexture2" "brush/stone/pavingstones1_c"
+    "$bumpmap2"  "brush/stone/pavingstones1_n"
+    "$surfaceprop2"  "rock"
+}
