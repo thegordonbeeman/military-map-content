@@ -2,7 +2,6 @@
 {
 	"$baseTexture" "decals/france/mobilisation"
 	"$translucent" 1
-//tes
 	"$decal" 1
 	"$decalscale" 0.25
 }

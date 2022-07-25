@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/furniture/T_Document_03_CS"
+"$bumpmap" "models/bfv/furniture/T_Document_01_NX"
+}

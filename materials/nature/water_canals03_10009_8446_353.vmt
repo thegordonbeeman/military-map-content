@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rnl_sicily3/c10009_8446_353"
+		"Proxies"
+		{
+		}
+	}
+}
