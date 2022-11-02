@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b_marie.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rnl_sicily3/c9799_8896_217"
+		"Proxies"
+		{
+		}
+	}
+}

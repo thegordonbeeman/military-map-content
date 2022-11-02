@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/architecture/WindowGlass_CS"
+"$bumpmap" "models/bfv/architecture/WindowGlass_NM"
+"$translucent" "1"
+"$phong" "1"
+"$phongexponent" "1"
+"$phongalbedotint" "1"
+"$phongboost" ".07"
+"$phongfresnelranges"	"[3 5 7]"
+}

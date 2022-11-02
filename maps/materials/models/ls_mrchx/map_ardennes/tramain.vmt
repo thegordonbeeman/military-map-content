@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ls_mrchx\map_ardennes\tramain"
+	"$bumpmap" "models\ls_mrchx\map_ardennes\tramain_n"	
+	"$nocull" "1"		
+	"$normalmapalphaenvmapmask" "1" 	
+//	"$envmap" "models\ls_mrchx\map_ardennes\tramain_env"						
+	"$envmaptint" "[0.01 0.01 0.01]"						
+}

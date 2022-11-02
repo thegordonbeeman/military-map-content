@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/furniture/T_Pictures_03_CS"
+"$bumpmap" "models/bfv/furniture/T_Pictures_01_N"
+$phong 1
+$phongalbedotint 1
+$phongexponent 5
+$phongboost	0.5
+$phongwarptexture "models\bfv\phongwarp_sheen" 
+$phongfresnelranges	"[0.5 1.5 8.0]"
+$allowdiffusemodulation 0
+}

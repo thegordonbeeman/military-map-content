@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/furniture/T_ShelfHanging_01_CS"
+"$bumpmap" "models/bfv/furniture/T_ShelfHanging_01_NMA"
+$phong 1
+//$phongexponenttexture	"models\bfv\albedo_tintdefine"
+$phongalbedotint 1
+$phongexponent 5
+$phongboost	20
+//$phongwarptexture "models\bfv\phongwarp_sheen" 
+$phongfresnelranges	"[0.5 1.5 8.0]"
+$allowdiffusemodulation 0
+}
