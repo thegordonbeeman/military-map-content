@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"nature/egu_snow02"
+	"$bumpmap" 	"nature/egu_snow02_normal"
+	"$surfaceprop" 	"snow"
+
+	"$basetexture2" 	"brush/ground/gravel1_c"
+	"$bumpmap2" 	"brush/ground/gravel1_n"
+	"$surfaceprop2" 	"gravel"
+
+	"$blendmodulatetexture"	 	"nature/rd_dirtgrass01blend"
+	"%tooltexture"			"nature/ah_blend_egusnow2_gravel1_tt"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"	
+	"$envmapcontrast" ".5"
+	"$envmapsaturation" ".5"
+}
