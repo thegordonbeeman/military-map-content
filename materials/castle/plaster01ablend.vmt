@@ -1,0 +1,19 @@
+WorldVertexTransition
+{
+$basetexture "castle/plaster01"
+$basetexture2 "castle/brick04"
+$bumpmap "castle/plaster01n"
+$bumpmap2 "castle/brick04n"
+$surfaceprop Plaster
+$surfaceprop2 Brick
+
+$blendmodulatetexture "castle/blend04"
+
+$detail "castle/plasterdetail"
+$detailscale 0.3
+
+$envmap "cubemaps/urban_cube01"
+$envmaptint "[0.27 0.15 0.13]"
+$envmapcontrast 0.5
+$envmapsaturation 0.3
+}

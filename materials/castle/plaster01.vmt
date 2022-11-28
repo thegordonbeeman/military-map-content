@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+$basetexture "castle/plaster01"
+$bumpmap "castle/plaster01n"
+$surfaceprop Plaster
+
+$detail "castle/plasterdetail"
+$detailscale 0.3
+
+$envmap "cubemaps/urban_cube01"
+$envmaptint "[0.09 0.051 0.043]"
+$envmapcontrast 0.5
+$envmapsaturation 0.3
+}
