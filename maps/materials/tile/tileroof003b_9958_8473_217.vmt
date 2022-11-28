@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/TILE/TILEROOF003B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rnl_sicily3/c9958_8473_217"
-	}
-}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-    "$basetexture"	"brush/ground/grass3_c"
-    "$bumpmap"		"brush/ground/grass3_n"
-    "$surfaceprop"  "grass"
-}

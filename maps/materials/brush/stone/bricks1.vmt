@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-    "$basetexture"	"brush/stone/bricks1_c"
-    "$bumpmap"		"brush/stone/bricks1_n"
-    "$surfaceprop" "rock"
-}

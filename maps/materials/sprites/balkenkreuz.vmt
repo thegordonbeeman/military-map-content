@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "sprites\balkenkreuz"
-	"$translucent" 1
-	"alpha" 1
-}
-

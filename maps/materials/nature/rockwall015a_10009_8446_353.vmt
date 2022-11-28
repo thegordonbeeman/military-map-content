@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/NATURE/ROCKWALL015A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rnl_sicily3/c10009_8446_353"
-	}
-}

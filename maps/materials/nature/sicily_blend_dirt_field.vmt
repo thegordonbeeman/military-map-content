@@ -1,9 +1,0 @@
-"WorldVertexTransition"
-{
-	"$baseTexture" "nature/ah_dirt_ground006"
-	"$baseTexture2" "nature/r_field1_highres"
-	"$blendmodulatetexture" "nature/rd_dirtgrass01blend"
-	"$surfaceprop" "dirt"
-	"$surfaceprop2" "dirt"
-	"%keywords" "rnl"
-}

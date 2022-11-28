@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODSTAIR002A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rnl_sicily3/c10400_9191_217"
-	}
-}
